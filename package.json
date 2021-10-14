@@ -1,7 +1,7 @@
 {
     "name": "clx-lunch-n-learn",
     "version": "0.1.0",
-    "homepage": "https://adsupnow.github.io/clx-lunch-n-learn/",
+    "homepage": "https://adsupnow.github.io/clx-react-boilerplate/",
     "private": true,
     "dependencies": {
         "@emotion/react": "^11.4.1",

@@ -1,6 +1,8 @@
-# CLX Lunch-n-Learn React Application
+# CLX React Boilerplate Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It contains several page components, routing, simple styling and UI library (Material UI), and GitHub Pages integration.
 
 ## Available Scripts
 
