@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/clx-react-boilerplate/static/css/main.86576606.chunk.css",
-    "main.js": "/clx-react-boilerplate/static/js/main.8bd5e06c.chunk.js",
-    "main.js.map": "/clx-react-boilerplate/static/js/main.8bd5e06c.chunk.js.map",
+    "main.js": "/clx-react-boilerplate/static/js/main.4d8c3d4d.chunk.js",
+    "main.js.map": "/clx-react-boilerplate/static/js/main.4d8c3d4d.chunk.js.map",
     "runtime-main.js": "/clx-react-boilerplate/static/js/runtime-main.ff7ea52f.js",
     "runtime-main.js.map": "/clx-react-boilerplate/static/js/runtime-main.ff7ea52f.js.map",
-    "static/js/2.880d8227.chunk.js": "/clx-react-boilerplate/static/js/2.880d8227.chunk.js",
-    "static/js/2.880d8227.chunk.js.map": "/clx-react-boilerplate/static/js/2.880d8227.chunk.js.map",
+    "static/js/2.33d844df.chunk.js": "/clx-react-boilerplate/static/js/2.33d844df.chunk.js",
+    "static/js/2.33d844df.chunk.js.map": "/clx-react-boilerplate/static/js/2.33d844df.chunk.js.map",
     "index.html": "/clx-react-boilerplate/index.html",
     "static/css/main.86576606.chunk.css.map": "/clx-react-boilerplate/static/css/main.86576606.chunk.css.map",
-    "static/js/2.880d8227.chunk.js.LICENSE.txt": "/clx-react-boilerplate/static/js/2.880d8227.chunk.js.LICENSE.txt"
+    "static/js/2.33d844df.chunk.js.LICENSE.txt": "/clx-react-boilerplate/static/js/2.33d844df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff7ea52f.js",
-    "static/js/2.880d8227.chunk.js",
+    "static/js/2.33d844df.chunk.js",
     "static/css/main.86576606.chunk.css",
-    "static/js/main.8bd5e06c.chunk.js"
+    "static/js/main.4d8c3d4d.chunk.js"
   ]
 }
