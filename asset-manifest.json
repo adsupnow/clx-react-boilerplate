@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/clx-react-boilerplate/static/css/main.86576606.chunk.css",
-    "main.js": "/clx-react-boilerplate/static/js/main.7645c1a3.chunk.js",
-    "main.js.map": "/clx-react-boilerplate/static/js/main.7645c1a3.chunk.js.map",
+    "main.js": "/clx-react-boilerplate/static/js/main.d4d2a974.chunk.js",
+    "main.js.map": "/clx-react-boilerplate/static/js/main.d4d2a974.chunk.js.map",
     "runtime-main.js": "/clx-react-boilerplate/static/js/runtime-main.ff7ea52f.js",
     "runtime-main.js.map": "/clx-react-boilerplate/static/js/runtime-main.ff7ea52f.js.map",
     "static/js/2.651c522b.chunk.js": "/clx-react-boilerplate/static/js/2.651c522b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ff7ea52f.js",
     "static/js/2.651c522b.chunk.js",
     "static/css/main.86576606.chunk.css",
-    "static/js/main.7645c1a3.chunk.js"
+    "static/js/main.d4d2a974.chunk.js"
   ]
 }
